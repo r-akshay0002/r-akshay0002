@@ -6,7 +6,7 @@ I am dedicated to building a career in cybersecurity, leveraging my skills and e
 ### 🛠️ **Technical Skills:**
 - **Computer Languages**: Python, Bash, PowerShell, HTML, CSS, JavaScript, Go, C++
 - **Security Tools**: Metasploit, Wireshark, Nmap, Snort, Burp Suite
-- **Operating Systems**: Linux, Windows, macOS
+- **Operating Systems**: Linux, Windows
 - **Cloud Security**: AWS, Azure, Google Cloud Platform
 - **Networking Protocols**: TCP/IP, DNS, HTTP, SSL/TLS
 
