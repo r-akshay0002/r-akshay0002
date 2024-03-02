@@ -36,9 +36,6 @@ I am dedicated to building a career in cybersecurity, leveraging my skills and e
 - Penetration testing methodologies and best practices.
 - Strategies for implementing effective cybersecurity policies and procedures in organizations.
 
-### 😄 Pronouns:
-- He/Him
-
 ### ⚡ Fun fact:
 - I enjoy solving cybersecurity challenges in Capture The Flag (CTF) competitions in my spare time.
 
